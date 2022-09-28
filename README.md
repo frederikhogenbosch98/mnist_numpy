@@ -1,2 +1,2 @@
 # mnist_numpy
-MNIST classifier from numpy
+Using various methods to construct a MNIST classifier with only numpy
